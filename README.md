@@ -5,10 +5,15 @@ The objective of this analysis is to determine whether or not it is profitable f
 
 ## Results
 Using Tableau, I created several visualizations that analyze the type of user, the demographics of the user, the trip duration, the total amount of trips as well as the most popular times CitiBikes are used. The analysis indicated the following: 
+
 •	A total of 2,344,224 trips were taken within the month of August. 
+
 •	Of the total number of trips 1,900359 were users who subscribed to CitiBikes, and 443,865 users were customers. 
+
 •	Additionally, of these total users 1,530,272 were male, 588,431 were female, and the remaining 225,521 being unknown. 
+
 •	A majority of these users rent their bike for approximately 5-6 hours at a time. 
+
 •	It is also indicated that for the month of August the peak ride time was on Thursday’s between 5:00 – 6:00pm. 
 
 For visualizations of this analysis, please follow the link: 
