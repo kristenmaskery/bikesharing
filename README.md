@@ -12,7 +12,7 @@ Using Tableau, I created several visualizations that analyze the type of user, t
 •	It is also indicated that for the month of August the peak ride time was on Thursday’s between 5:00 – 6:00pm. 
 
 For visualizations of this analysis, please follow the link below: 
-[https://public.tableau.com/profile/kristen7331#!/vizhome/CitiBikeAnalysis_16066995919780/CitiBikeAnalysis?publish=yes ](LINK GOES HERE "link to dashboard")
+[link to dashboard](https://public.tableau.com/profile/kristen7331#!/vizhome/CitiBikeAnalysis_16066995919780/CitiBikeAnalysis?publish=yes "link to dashboard")
 
 ## Summary
 From the analysis conducted above it can be determined that the popularity of CitiBike’s is significant as can be noted by the larger number of loyal subscribers to irregular customers. More specifically, whether it is during the most popular weekday or hours, rides are being taken exponentially. Therefore, it is my proposal that CitiBike’s expand to other cities. 
