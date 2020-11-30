@@ -11,7 +11,7 @@ Using Tableau, I created several visualizations that analyze the type of user, t
 •	A majority of these users rent their bike for approximately 5-6 hours at a time. 
 •	It is also indicated that for the month of August the peak ride time was on Thursday’s between 5:00 – 6:00pm. 
 
-For visualizations of this analysis, please follow the link below: 
+For visualizations of this analysis, please follow the link: 
 [link to dashboard](https://public.tableau.com/profile/kristen7331#!/vizhome/CitiBikeAnalysis_16066995919780/CitiBikeAnalysis?publish=yes "link to dashboard")
 
 ## Summary
